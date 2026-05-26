@@ -1,0 +1,18 @@
+{
+    "id": "values_and_beliefs-d29946",
+    "category": "values_and_beliefs",
+    "text": "do you believe in life after death",
+    "answer_type": "likert",
+    "scale_low_label": null,
+    "scale_high_label": null,
+    "options": null,
+    "depth": "light",
+    "weight": "reflective",
+    "spice": 0,
+    "language": "en",
+    "tags": [],
+    "status": "draft",
+    "created_at": "2026-05-26T01:16:23.863058672Z",
+    "updated_at": "2026-05-26T01:16:23.863058672Z",
+    "contributor": "user:cab71ae5-d109-486f-9f7a-a40304e4556e"
+}
