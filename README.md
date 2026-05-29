@@ -34,7 +34,7 @@ questions-<lang>/
 | hi   | Hindi             | translated |
 | tr   | Turkish           | translated |
 | zh   | Mandarin (Simpl.) | translated |
-| ar   | Arabic            | pending    |
+| ar   | Arabic (MSA)      | translated |
 | fr   | French            | pending    |
 | ja   | Japanese          | pending    |
 | ru   | Russian           | pending    |
