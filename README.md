@@ -37,7 +37,7 @@ questions-<lang>/
 | ar   | Arabic (MSA)      | translated |
 | fr   | French            | pending    |
 | ja   | Japanese          | pending    |
-| ru   | Russian           | pending    |
+| ru   | Russian           | translated |
 
 Translations target natural, conversational register for a native speaker — not literal word-for-word — and preserve each question's emotional tone (intimate / reflective / playful / vulnerable).
 
